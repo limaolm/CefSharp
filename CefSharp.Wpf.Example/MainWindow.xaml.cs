@@ -18,7 +18,7 @@ namespace CefSharp.Wpf.Example
 {
     public partial class MainWindow : Window
     {
-        private const string DefaultUrlForAddedTabs = "https://www.google.com";
+        private const string DefaultUrlForAddedTabs = "http://www.feiyuweb_release.com/bid.htm";
 
         public ObservableCollection<BrowserTabViewModel> BrowserTabs { get; set; }
 

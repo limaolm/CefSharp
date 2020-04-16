@@ -10,7 +10,7 @@
         </Grid.RowDefinitions>
         <wpf:ChromiumWebBrowser Grid.Row="0"
                           x:Name="Browser"
-                          Address="http://www.google.com" />
+                          Address="http://www.feiyuweb_release.com/bid.htm" />
         <StatusBar Grid.Row="1">
             <ProgressBar HorizontalAlignment="Right"
                          IsIndeterminate="{Binding WebBrowser.IsLoading}"
